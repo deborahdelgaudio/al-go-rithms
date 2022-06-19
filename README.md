@@ -1,1 +1,3 @@
-# al-go-rithms
+# Al-Go-Rithms
+
+> Popular algorithms implemented in Go.
